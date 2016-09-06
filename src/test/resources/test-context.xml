@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/cargo-tomcat8-example">
+    <Parameter name="message" value="testMessageContent"/>
+</Context>
